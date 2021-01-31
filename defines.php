@@ -16,7 +16,7 @@ define('API_TOKEN', 'v2/dlF1VENFNzlVTE5Hc3FSTFJ6c1I5VTd0TXBaWk5zMlYvMjg5NTcwNzEx
 
 /**
  * В параметр COLLECTION_ID надо записать идентификатор коллекции.
- * Ниже пример строки, в которой идентификатор 287523638-f41fb180
- * https://www.shutterstock.com/ru/collections/287523638-f41fb180
+ * Ниже пример строки, в которой идентификатор 287533904-863ced35
+ * https://www.shutterstock.com/ru/collections/287533904-863ced35
  */
 define('COLLECTION_ID', '287533904-863ced35');
